@@ -5,7 +5,7 @@
       "description": "this is the description",
       "ZPPrice": 0,
       "USDPrice": 100,
-      "image": "/images/shop-wrapper-bg.png",
+      "image": "/images/shop-wrapper-bg.png"
     },
     "community": {
       "contract": "0xd9EA16cD1b463cE837F605C912D0594EeAe51c7A",
@@ -13,7 +13,7 @@
       "description": "this is the description 2",
       "ZPPrice": 0,
       "USDPrice": 100,
-      "image": "/images/shop-wrapper-bg.png",
+      "image": "/images/shop-wrapper-bg.png"
     },
     "community_3": {
       "contract": "0xd9EA16cD1b463cE837F605C912D0594EeAe51c7A",
@@ -21,6 +21,6 @@
       "description": "this is the description 3",
       "ZPPrice": 0,
       "USDPrice": 100,
-      "image": "/images/shop-wrapper-bg.png",
-    },
+      "image": "/images/shop-wrapper-bg.png"
+    }
 }
