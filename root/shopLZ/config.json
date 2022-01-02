@@ -21,14 +21,14 @@
       "id": 1,
       "title": "Ended",
       "description": "1000 Box price 80 ZP",
-      "time": "(From xx - to xx)"
+      "time": "(From xx - to xx)",
       "status": "finish"
     },
     {
       "id": 0,
       "title": "Ended",
       "description": "500 Box price 40 ZP",
-      "time": "(From xx - to xx)"
+      "time": "(From xx - to xx)",
       "status": "finish"
     }
   ]
