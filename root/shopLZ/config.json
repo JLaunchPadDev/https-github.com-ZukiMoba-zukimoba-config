@@ -15,14 +15,14 @@
       "title": "In Progress",
       "description": "2000 Box price 100 ZP",
       "time": "(From xx - to xx)",
-      "status": "process"
+      "status": "wait"
     },
     {
       "id": 1,
       "title": "Ended",
       "description": "1000 Box price 80 ZP",
       "time": "(From xx - to xx)",
-      "status": "finish"
+      "status": "process"
     },
     {
       "id": 0,
