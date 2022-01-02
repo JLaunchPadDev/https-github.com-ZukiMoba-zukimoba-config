@@ -4,16 +4,32 @@
   "last_sale": 400,
   "round_history": [
     {
+      "id": 3,
+      "title": "In Progress",
+      "description": "2000 Box price 100 ZP",
+      "time": "(From xx - to xx)",
+      "status": "wait"
+    }, 
+    {
+      "id": 2,
+      "title": "In Progress",
+      "description": "2000 Box price 100 ZP",
+      "time": "(From xx - to xx)",
+      "status": "process"
+    },
+    {
       "id": 1,
       "title": "Ended",
       "description": "1000 Box price 80 ZP",
       "time": "(From xx - to xx)"
+      "status": "finish"
     },
     {
       "id": 0,
       "title": "Ended",
       "description": "500 Box price 40 ZP",
       "time": "(From xx - to xx)"
+      "status": "finish"
     }
   ]
 }
