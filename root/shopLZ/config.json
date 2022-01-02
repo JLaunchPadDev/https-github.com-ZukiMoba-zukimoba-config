@@ -4,31 +4,24 @@
   "last_sale": 400,
   "round_history": [
     {
-      "id": 3,
+      "id": 2,
       "title": "Upcoming",
       "description": "2000 Box price 100 ZP",
-      "time": "(From xx - to xx)",
+      "time": "(From 5:00 UTC January 3, 2022 - to 5:00 UTC January 10, 2022)",
       "status": "wait"
-    }, 
-    {
-      "id": 2,
-      "title": "In Progress",
-      "description": "2000 Box price 100 ZP",
-      "time": "(From xx - to xx)",
-      "status": "process"
     },
     {
       "id": 1,
       "title": "Ended",
       "description": "1000 Box price 80 ZP",
-      "time": "(From xx - to xx)",
+      "time": "(From 16:00 UTC Dec 24, 2021 - to 16:00 UTC Dec 31, 2021)",
       "status": "finish"
     },
     {
       "id": 0,
       "title": "Ended",
       "description": "500 Box price 40 ZP",
-      "time": "(From xx - to xx)",
+      "time": "(From 5:00 UTC Dec 19, 2021 - to 5:00 UTC Dec 24, 2021)",
       "status": "finish"
     }
   ]
