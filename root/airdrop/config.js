@@ -1,6 +1,6 @@
 {
     "airdrop-nft": {
-      "contract": "0xdBe25CEE1470a64166df0E069286ecdcEc130615",
+      "contract": "0xCE3a2aE01BAc291c3DcA8270EC04818979add1B8",
       "title": "TREASURE CHEST FOR WHITELIST AIRDROP",
       "description": "NFTs - Claim Blindbox",
       "ZPPrice": 0,
