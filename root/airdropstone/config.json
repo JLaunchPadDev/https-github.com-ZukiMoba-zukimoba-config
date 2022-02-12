@@ -10,5 +10,21 @@
         "start": "Dec 24 2021 16:00:00 GMT",
         "end_round_1": "Feb 20 2022 00:00:00 GMT"
       }
+    },
+   "airdrop-cmc": {
+      "contract": "0xdBe25CEE1470a64166df0E069286ecdcEc130615",
+      "title": "TREASURE CHEST FOR WHITELIST AIRDROP",
+      "description": "NFTs - Claim Blindbox",
+      "button": {
+          "label": "Join Airdrop",
+          "link": "https://google.com"
+      },
+      "ZPPrice": 0,
+      "USDPrice": 0,
+      "image": "/images/shop-wrapper-bg.png",
+      "countdown": {
+        "start": "Dec 24 2021 16:00:00 GMT",
+        "end_round_1": "Feb 20 2022 00:00:00 GMT"
+      }
     }
 }
