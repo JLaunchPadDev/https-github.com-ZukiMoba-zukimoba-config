@@ -141,7 +141,7 @@
   },
   {
     "id": 7,
-    "title": "Estimate",
+    "title": "Upcoming",
     "price": 250,
     "description": "3000 Box price 250 ZP",
     "time": "(From UTC 5:00 UTC Apr 07, 2022 to 5:00 UTC Apr 14,2022)",
@@ -149,19 +149,19 @@
   },
   {
     "id": 6,
-    "title": "Upcoming",
+    "title": "In Progress",
     "price": 200,
     "description": "3000 Box price 200 ZP",
     "time": "(From UTC 5:00 UTC Mar 23, 2022 to 5:00 UTC Mar 30,2022)",
-    "status": "wait"
+    "status": "process"
   },
   {
     "id": 5,
-    "title": "In Progress",
+    "title": "Ended",
     "price": 150,
     "description": "3000 Box price 150 ZP",
     "time": "(From 5:00 UTC Feb 11, 2022 - to 5:00 UTC Feb 18, 2022)",
-    "status": "process"
+    "status": "finish"
   },
   {
     "id": 4,
