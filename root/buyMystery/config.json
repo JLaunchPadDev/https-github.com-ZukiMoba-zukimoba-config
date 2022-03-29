@@ -8,12 +8,14 @@
     {
       "id": 0,
       "type": "diamond",
+      "avatar": "/images/chest/diamond-chest.gif",
       "NFTItem": [
         {
           "id": 1,
           "title": "NFTs Gun",
           "type": "Gun",
           "rate": 20,
+          "avatar": "/images/mystery/sn_tx_shp0012.gif",
           "rareCom": [
             {
               "title": "Normal",
@@ -38,6 +40,7 @@
           "title": "NFTs Piece",
           "type": "Piece",
           "rate": 30,
+          "avatar": "/videos/piece/veryRare.mp4",
           "rareCom": [
             {
               "title": "Normal",
@@ -62,6 +65,7 @@
           "title": "NFTs Lucky Stone",
           "type": "Stone",
           "rate": 50,
+          "avatar": "/videos/stone/veryRare.mp4",
           "rareCom": [
             {
               "title": "Normal",
