@@ -4,76 +4,82 @@
   "last_sale": 0,
   "title_note": "In Progress",
   "status_not": "process",
-  "percent_lucky": [
+  "chest_data": [
     {
-      "id": 1,
-      "title": "NFTs Gun",
-      "type": "Gun",
-      "rate": 20,
-      "rareCom": [
+      "id": 0,
+      "type": "diamond",
+      "NFTItem": [
         {
-          "title": "Normal",
-          "value": 84.99
+          "id": 1,
+          "title": "NFTs Gun",
+          "type": "Gun",
+          "rate": 20,
+          "rareCom": [
+            {
+              "title": "Normal",
+              "value": 84.99
+            },
+            {
+              "title": "Ordinary",
+              "value": 10
+            },
+            {
+              "title": "Rare",
+              "value": 5
+            },
+            {
+              "title": "Very Rare",
+              "value": 0.01
+            }
+          ]
         },
         {
-          "title": "Ordinary",
-          "value": 10
+          "id": 2,
+          "title": "NFTs Piece",
+          "type": "Piece",
+          "rate": 30,
+          "rareCom": [
+            {
+              "title": "Normal",
+              "value": 84.99
+            },
+            {
+              "title": "Ordinary",
+              "value": 10
+            },
+            {
+              "title": "Rare",
+              "value": 5
+            },
+            {
+              "title": "Very Rare",
+              "value": 0.01
+            }
+          ]
         },
         {
-          "title": "Rare",
-          "value": 5
-        },
-        {
-          "title": "Very Rare",
-          "value": 0.01
-        }
-      ]
-    },
-    {
-      "id": 2,
-      "title": "NFTs Piece",
-      "type": "Piece",
-      "rate": 30,
-      "rareCom": [
-        {
-          "title": "Normal",
-          "value": 84.99
-        },
-        {
-          "title": "Ordinary",
-          "value": 10
-        },
-        {
-          "title": "Rare",
-          "value": 5
-        },
-        {
-          "title": "Very Rare",
-          "value": 0.01
-        }
-      ]
-    },
-    {
-      "id": 3,
-      "title": "NFTs Lucky Stone",
-      "type": "Stone",
-      "rate": 50,
-      "rareCom": [
-        {
-          "title": "Normal",
-          "value": 84.99
-        },
-        {
-          "title": "Ordinary",
-          "value": 10
-        },
-        {
-          "title": "Rare",
-          "value": 5
-        },
-        {
-          "title": "Very Rare",
-          "value": 0.01
+          "id": 3,
+          "title": "NFTs Lucky Stone",
+          "type": "Stone",
+          "rate": 50,
+          "rareCom": [
+            {
+              "title": "Normal",
+              "value": 84.99
+            },
+            {
+              "title": "Ordinary",
+              "value": 10
+            },
+            {
+              "title": "Rare",
+              "value": 5
+            },
+            {
+              "title": "Very Rare",
+              "value": 0.01
+            }
+          ]
         }
       ]
     }
