@@ -2,6 +2,9 @@
   "last_sale": 0,
   "title_note": "In Progress",
   "status_not": "process",
+  "sale_token": {
+    "symbol": "GP",
+  },
   "round_config": {
     "start": "Apr 07 2021 05:00:00 GMT",
     "end_round_1": "Apr 14 2023 05:00:00 GMT"
