@@ -85,7 +85,7 @@
   },
  "market": {
     "disableBuy": 0,
-    "disableSale": 1,
+    "disableSale": 0,
     "disableCancel": 0,
     "disableSend": 0
   }
